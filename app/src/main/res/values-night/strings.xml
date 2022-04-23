@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">CatAgentList</string>
     <string name="item_cat_photo">Photo</string>
     <string name="main_title">Our Agent</string>
 </resources>
